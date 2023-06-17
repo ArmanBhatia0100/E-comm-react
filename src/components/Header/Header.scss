@@ -1,0 +1,15 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: cadetblue;
+  .cartBtn_container{
+    display: flex;
+    justify-items: center;
+    align-items:center;
+    .cartBtn{
+      height: auto;
+      cursor: pointer;
+    }
+  }
+}
